@@ -9,3 +9,5 @@ Depois que clonar o repositório rode o **yarn** ou **npm install** para gerar o
 ***yarn json-server server.json -p 3333***
 
 Com o servidor rodando é possível utilizar o **yarn start** para rodar a aplicação.
+
+![Alt text](/public/assets/Screenshot.png?raw=true "Screenshot")
